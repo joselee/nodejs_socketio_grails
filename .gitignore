@@ -1,0 +1,4 @@
+wsServer/node_modules/*
+wsClient/target/*
+*.iml
+
